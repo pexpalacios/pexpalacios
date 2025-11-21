@@ -1,1 +1,1 @@
-Currently re-writing my 42 projects to update them, get better at coding and so they actually look like code instead of whatever abomination norminette makes me do :/
+Doing Milestone 5 of the 42 School. Currently trying out Inception. Also re-writing some old codes on the side so you may see some unfinished projects around.
