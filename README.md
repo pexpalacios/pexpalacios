@@ -30,7 +30,8 @@
         <li>User customization</li> 
         <li>Account system with secure password handling</li>
         <li>Database: MongoDB</li> 
-        <li>Stack: Vite (React) + Express</li>
+        <li>Stack: Vite (React) + Express + TailwindCSS</li>
+        <li>Uses docker</li>
       </ul> 
     </td> 
     <td width="50%" align="center">
@@ -53,6 +54,43 @@
         <li>Nginx as a reference/proxy</li> 
         <li>Front-end made with HTML and CSS</li> 
         <li>Dynamic content through CGIs</li> 
+      </ul> 
+    </td> 
+
+  </tr> 
+</table>
+
+## [Minishell](https://github.com/jfercode/42-Minishell)
+<table width="100%"> 
+    <td  width="50%" valign="top"> 
+      <ul> 
+        <li>Bash console recreaated completely in C</li>
+        <li>Allows pipes and redirections</li>
+        <li>Uses AST for structure</li>
+        <li>Custom made commands: echo, cd, pwd, export, unset, env and exit</li>
+      </ul> 
+    </td> 
+    <td width="50%" align="center">
+      <img src="assets/minishell-screenshot.png" alt="Minishell screenshot" width="100%" /> 
+    </td> 
+</table>
+
+
+## [Image gallery](https://github.com/pexpalacios/Globant-Piscine-FullStack---ImageGallery)
+<table> 
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/imggallery-screenshot.png" alt="Image gallery screenshot" width="100%" />
+    </td> 
+    <td width="100%" valign="top"> 
+      <ul> 
+        <li>Gallery website made with Unsplash API</li>
+        <li>Uses OAuth to connect to you Unsplash profile</li>
+        <li>Filter images by keywords</li>
+        <li>Light and dark modes</li>
+        <li>Responsive: looks good on pc and mobile</li>
+        <li>Stack: Vite (React) + TailwindCSS</li>
+        <li>Uses docker</li>
       </ul> 
     </td> 
 
