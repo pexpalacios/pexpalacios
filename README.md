@@ -64,7 +64,7 @@
 <table width="100%"> 
     <td  width="50%" valign="top"> 
       <ul> 
-        <li>Bash console recreaated completely in C</li>
+        <li>Bash console recreated completely in C</li>
         <li>Allows pipes and redirections</li>
         <li>Uses AST for structure</li>
         <li>Custom made commands: echo, cd, pwd, export, unset, env and exit</li>
